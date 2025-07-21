@@ -1,4 +1,4 @@
-Line Follower Robot
+Line Follower Robot Car
 This Arduino-powered line follower robot is designed to:
 
 Detect and follow a black line on a white surface using an array of 6 infrared (IR) sensors.
