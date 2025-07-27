@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="line-follower.jpg" alt="A photo of a sample project" width="45%">
+</p>
+
 # Line Follower Robot Car
 This Arduino-powered line follower robot is designed to:
 
